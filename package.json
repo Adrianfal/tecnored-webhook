@@ -1,0 +1,13 @@
+{
+  "name": "tecnored-webhook",
+  "version": "1.0.0",
+  "description": "Webhook de MercadoPago para TecnoRed",
+  "main": "api/mercadopago.js",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}
