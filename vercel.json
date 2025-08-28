@@ -1,9 +1,7 @@
 {
   "functions": {
-    "api/mercadopago.js": {
+    "api/*.js": {
       "runtime": "nodejs18.x"
     }
-  },
-  "buildCommand": "echo 'No build needed for serverless function'",
-  "outputDirectory": "api"
+  }
 }
